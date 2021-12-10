@@ -6,7 +6,7 @@ export default function FooterPart() {
     <>
       <Box sx={{}} component="footer">
         <Typography variant="h6" align="center">
-          ----
+          --UnderConstruction--
         </Typography>
         <Typography
           variant="subtitle1"
