@@ -18,7 +18,7 @@ export default function FooterPart() {
         </Typography>
         <Typography variant="body2" color="text.secondary" align="center">
           {"Copyright © "}
-          <Link color="inherit" href="/index.js">
+          <Link color="inherit" href="/portfolio_sample_reactjs/">
             Kishor Kc
           </Link>{" "}
           {new Date().getFullYear()}
